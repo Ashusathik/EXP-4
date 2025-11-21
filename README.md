@@ -97,7 +97,7 @@ CIRCUIT DIAGRAMS
 
 # HALF WAVE RECTIFIER WITH FILTER:
 
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/b1939226-212f-4ecc-8ca6-64b56bd84bc2
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/b1939226-212f-4ecc-8ca6-64b56bd84bc2" />
 
 # FULL WAVE RECTIFIER:
 
