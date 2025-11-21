@@ -36,17 +36,72 @@ PROCEDURE:
 
 CIRCUIT DIAGRAMS
 
-Half wave rectifier with filter:
+# Half wave rectifier without filter:
 
-Bridge rectifier with filter:
+<img width="690" height="305" alt="image" src="https://github.com/user-attachments/assets/37084d63-e394-4f8b-9720-c521eab2008b" />
 
-TABULAR COLUMN
-Rectifier without filter
-TABULAR COLUMN
-Rectifier with filter
+# Half wave rectifier with filter:
 
-WAVEFORM:
+<img width="708" height="306" alt="image" src="https://github.com/user-attachments/assets/115dd51c-848b-43e8-a78b-4ccc2a87e096" />
 
+# Full Wave Rectifier without  filter:
+
+<img width="614" height="248" alt="image" src="https://github.com/user-attachments/assets/c893c504-142d-4339-9290-c055785c24d2" />
+
+# Full Wave Rectifier With Filter:
+
+<img width="652" height="277" alt="image" src="https://github.com/user-attachments/assets/5d3feeea-7738-4cdf-8581-d75d6f158f48" />
+
+## Calculation  for halfwave Rectifier without filter:
+
+<img width="1041" height="453" alt="image" src="https://github.com/user-attachments/assets/7e068884-98c3-420f-8252-8ea41828f8f4" />
+
+## Calculation for halfwave Rectifier with filter:
+
+<img width="1050" height="492" alt="image" src="https://github.com/user-attachments/assets/2d349520-c254-42c9-91ed-ae35a6e8141e" />
+
+## Calculation for fullwavw Rectifier :
+
+<img width="765" height="604" alt="image" src="https://github.com/user-attachments/assets/cf53eb3d-323f-408b-b8f9-580875f471ff" />
+
+(i) Without  and With Filter:
+
+<img width="639" height="663" alt="image" src="https://github.com/user-attachments/assets/7ee08b8a-2594-4505-ba7b-b43ac0e65bf1" />
+
+
+## TABULAR COLUMN
+
+## For Half wave with and without filter:
+
+<img width="1049" height="355" alt="image" src="https://github.com/user-attachments/assets/e7bb75a4-94a0-4417-a703-55ab910d5560" />
+
+## For Full Wave With and Without Filter:
+
+<img width="621" height="250" alt="image" src="https://github.com/user-attachments/assets/517f903b-42ba-4471-a471-b3cce585cbe7" />
+
+## WAVEFORM:
+
+(i) Halfwave:
+
+<img width="1099" height="634" alt="image" src="https://github.com/user-attachments/assets/043c0e90-82b4-448e-991c-1e3f4c02b45d" />
+
+(ii) Fullwave:
+
+<img width="1022" height="721" alt="image" src="https://github.com/user-attachments/assets/b83d289a-976f-401d-b2d4-c49baac921b9" />
+
+## OUTPUT:
+
+# HALFWAVE RECTIFIER WITHOUT FILTER:
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/178fd4f4-90e8-4208-95e1-cd588f192c72" />
+
+# HALF WAVE RECTIFIER WITH FILTER:
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/b1939226-212f-4ecc-8ca6-64b56bd84bc2
+
+# FULL WAVE RECTIFIER:
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/31754f0d-284a-4306-baed-56a143b87694" />
 
 RESULT:
 
